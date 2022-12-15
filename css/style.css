@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.nav input {
+    border: none;
+    width: 410px;
+    height: 51px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+header{
+    background-image: url(./img/Mapsicle\ Map.png);
+    background-color: #F7B034;
+    width: 500px;
+    height: 926px;
+}
